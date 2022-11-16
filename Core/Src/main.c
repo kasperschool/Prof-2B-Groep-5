@@ -4,7 +4,7 @@
   * @file           : main.c
   * @brief          : Main program body
   ******************************************************************************
-  * @attention
+  * @attention test
   *
   * Copyright (c) 2022 STMicroelectronics.
   * All rights reserved.
